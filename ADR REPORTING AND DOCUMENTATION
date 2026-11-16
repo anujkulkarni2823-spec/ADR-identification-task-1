@@ -1,0 +1,87 @@
+# ADR Reporting and Documentation
+
+## 1. Objective
+To prepare a structured Adverse Drug Reaction (ADR) reporting form using a simulated patient case scenario, following the basic principles of pharmacovigilance documentation.
+
+## 2. Introduction
+Adverse Drug Reaction reporting is an essential component of pharmacovigilance. It involves collecting, documenting and evaluating information related to suspected adverse reactions associated with medicinal products.
+
+Proper ADR documentation helps healthcare professionals identify potential drug-related risks and improve medication safety.
+
+## 3. Patient Information
+
+| Parameter | Details |
+|---|---|
+| Patient ID | P001 (educational reference) |
+| Age | 45 years |
+| Gender | Female |
+| Patient initials | Not provided |
+
+## 4. Suspected Medicine Information
+
+| Parameter | Details |
+|---|---|
+| Suspected medicine | Amoxicillin |
+| Dose | Not available |
+| Route | Not available |
+| Treatment initiation | Day -5 |
+| Concomitant medication | Paracetamol |
+| Concomitant medication usage | As needed |
+
+## 5. Adverse Reaction Information
+
+| Parameter | Details |
+|---|---|
+| Adverse reaction | Skin rash |
+| Additional symptoms | Itching, nausea and dizziness |
+| Onset | Day -2 |
+| Recovery date | Not reported |
+| Current outcome | Symptoms persisted at Day 0 |
+| Seriousness | Not established |
+
+## 6. Timeline of Adverse Reaction
+
+- Day -5: Amoxicillin treatment initiated.
+- Day -2: Patient developed skin rash, itching, nausea and dizziness.
+- Day 0: Symptoms continued to persist.
+
+The reaction developed approximately three days after starting amoxicillin.
+
+## 7. Suspected ADR Assessment
+
+Amoxicillin is considered the leading suspected medicine because of the temporal association between treatment initiation and the development of symptoms.
+
+The reported skin rash and itching may indicate a hypersensitivity reaction. However, a causal relationship cannot be confirmed based on the available information.
+
+Paracetamol should also be considered during further assessment.
+
+## 8. Reporter Information
+
+| Parameter | Details |
+|---|---|
+| Reporter name | Not provided |
+| Designation | Not provided |
+| Contact information | Not provided |
+| Healthcare institution | Not provided |
+
+## 9. Additional Clinical Information
+
+The patient developed multiple symptoms following the initiation of amoxicillin therapy. Information regarding drug withdrawal, rechallenge, previous allergy history, laboratory investigations and alternative causes is unavailable.
+
+Further clinical evaluation is required.
+
+## 10. Documentation and Reporting Process
+
+1. Collect patient demographic information.
+2. Record all suspected and concomitant medications.
+3. Document the adverse reaction and onset timeline.
+4. Assess the suspected relationship between medicine and reaction.
+5. Record seriousness and clinical outcome when available.
+6. Collect reporter and healthcare institution details.
+7. Submit a complete report through the appropriate pharmacovigilance reporting channel.
+
+## 11. Conclusion
+
+This simulated case demonstrates the importance of structured ADR reporting and documentation. Amoxicillin was identified as the leading suspected medicine based on the available clinical timeline. Accurate documentation of patient information, suspected medicines, reaction details and reporter information is essential for effective pharmacovigilance and patient safety.
+
+**Note:** This is an educational case report, not an actual patient report or a submitted PvPI report.
