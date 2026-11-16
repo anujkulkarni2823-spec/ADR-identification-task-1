@@ -1,0 +1,30 @@
+# Adverse Drug Reaction (ADR) Case Study Analysis
+
+## 1. Introduction
+Adverse Drug Reactions (ADRs) are unwanted or harmful responses associated with the use of medicinal products at normally used doses. ADR identification is important for patient safety and pharmacovigilance.
+
+## 2. Patient Information
+- Patient: Female
+- Age: 45 years
+- Presenting symptoms: Rash, itching, nausea and dizziness.
+
+## 3. Medication History
+- Amoxicillin: Started 5 days before assessment.
+- Paracetamol: Taken as needed.
+
+## 4. Timeline Analysis
+- Day -5: Amoxicillin treatment initiated.
+- Day -2: Symptoms developed.
+- Day 0: Symptoms persisted.
+
+## 5. Suspected Drug
+Amoxicillin is considered the leading suspected drug based on the temporal association and reported symptoms.
+
+## 6. ADR Assessment
+The reported symptoms are compatible with a possible drug-associated hypersensitivity reaction. However, further clinical information is required to establish causality.
+
+## 7. Causality Assessment
+Using the WHO-UMC approach, the suspected reaction is provisionally classified as POSSIBLE because the timing is compatible, but alternative causes and the effects of drug withdrawal are not established.
+
+## 8. Conclusion
+This case demonstrates the importance of reviewing patient symptoms, medication history and treatment timelines to identify potential adverse drug reactions. Amoxicillin is the leading suspected drug in this scenario.
